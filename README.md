@@ -47,7 +47,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Lorddaniii/nezuko-bot.git && cd Nezuko_bot
+git clone https://github.com/Lorddaniii/Nezuko_bot.git && cd Nezuko_bot
 ```
 
 ```bash

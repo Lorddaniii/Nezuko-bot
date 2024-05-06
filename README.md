@@ -41,14 +41,14 @@
 ├❏pkg install ffmpeg -y
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
-├❏git clone https://github.com/Yovanihades1212/HADES-BOT-MD.git
-├❏cd HADES-BOT-MDV2
+├❏git clone https://github.com/Lorddaniii/Nezuko_bot.git
+├❏cd Nezuko_bot
 ├❏npm install
 ├❏npm update
 ├❏npm install
-├❏npm start
+├❏n
 └────ׂ─ׂ─ׂ─ׂ───  
-```
+``
 ### `NOTAS`
 ```bash
 ┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
@@ -96,6 +96,7 @@ excesivamente lento (depende del WhatsApp igual)
 - [ ] Otros
 
 ---------
+
 
 ## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Contacto" width="42" height="42"> Contacto
 

@@ -32,41 +32,50 @@
 
 ---------
 
-## <img src="https://i.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif" alt="Instalacion" width="40" height="40"> Instalación en [termux](https://f-droid.org/repo/com.termux_118.apk)
-
+###🌱𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗☘️
 ```bash
-cd && termux-setup-storage
+┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇」
+├❏pkg update && pkg upgrade
+├❏pkg install git -y
+├❏pkg install nodejs -y
+├❏pkg install ffmpeg -y
+├❏pkg install imagemagick -y
+├❏termux-setup-storage
+├❏git clone https://github.com/Yovanihades1212/HADES-BOT-MD.git
+├❏cd HADES-BOT-MDV2
+├❏npm install
+├❏npm update
+├❏npm install
+├❏npm start
+└────ׂ─ׂ─ׂ─ׂ───  
 ```
-
+### `NOTAS`
 ```bash
-apt-get update -y && apt-get upgrade -y
-```
-
-```bash
-pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
-```
-
-```bash
-git clone https://github.com/Lorddaniii/Nezuko_bot.git && cd Nezuko_bot
-```
-
-```bash
-yarn install
-```
-
-```bash
-npm install
-```
-
-```bash
-npm update
-```
-
-```bash
-npm start
-```
-
-- Después de eso te aparecerά un código **QR** lo escaneas con el Whatsapp web y listo
+┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
+├❏> Para activar algunos comandos como 
+├❏el #añadir y #sacar el propietario del 
+├❏Bot debera usar el comando #enable restrict 
+├❏desde el numero que haya puesto en el archivo 
+├❏config.js
+┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
+├❏> Para obtener nuevamente el codigo QR, escribe en el termux:
+├❏> cd HADES-BOT-MD
+├❏> rm -rf Hades-session
+├❏> npm start 
+└────ׂ─ׂ─ׂ─ׂ───
+┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
+├❏> Si el termux se cierra para volver activar escribe:
+├❏> cd HADES-BOT-MD
+├❏> npm start 
+└────ׂ─ׂ─ׂ─ׂ───
+├❏> Cada vez que realices una modificacion en el
+repositorio del Bot (tu GitHub), puedes usar 
+el comando #actualizar para que se actualicen los datos
+└────ׂ─ׂ─ׂ─ׂ───
+├❏> Aconsejable maximo 30 grupos, despues 
+de esa cantidad el Bot empieza a ir 
+excesivamente lento (depende del WhatsApp igual)
+└────ׂ─ׂ─ׂ─ׂ──
 
 ---------
 

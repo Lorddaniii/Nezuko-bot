@@ -46,7 +46,7 @@
 ├❏npm install
 ├❏npm update
 ├❏npm install
-├❏n
+├❏npm start
 └────ׂ─ׂ─ׂ─ׂ───  
 ``
 ### `NOTAS`

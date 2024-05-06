@@ -41,7 +41,7 @@
 ├❏pkg install ffmpeg -y
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
-├❏git clone https://github.com/Lorddaniii/Nezuko_bot.git
+├❏git clone https://github.com/Lorddaniii/Nezuko-bot.git
 ├❏cd Nezuko_bot
 ├❏npm install
 ├❏npm update
